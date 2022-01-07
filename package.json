@@ -1,0 +1,22 @@
+{
+  "name": "bitcoin-tool",
+  "version": "0.0.1",
+  "description": "bitcoin-tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-yokoi/bitcoin-tool.git"
+  },
+  "keywords": [
+    "bitcoin"
+  ],
+  "author": "d-yokoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d-yokoi/bitcoin-tool/issues"
+  },
+  "homepage": "https://github.com/d-yokoi/bitcoin-tool#readme"
+}
